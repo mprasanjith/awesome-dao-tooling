@@ -33,24 +33,24 @@
 
 ## Governance Frameworks
 
-- [Aragon](https://hack.aragon.org/)
-- [Aragon Govern](https://aragon.org/aragon-govern)
-- [Astro](https://astrodao.com/)
-- [Colony](https://colony.io/)
-- [Governor (Compound)](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance)
-- [Governor (OpenZeppelin)](https://docs.openzeppelin.com/contracts/4.x/api/governance)
-- [DAOHaus (Moloch)](https://daohaus.club/)
-- [DAOstack](https://daostack.io/)
-- [Gardens](https://gardens.1hive.org/)
+- [Aragon](https://aragon.org/aragon-client) - Upgradable governance with pre-confugured templates for common use cases
+- [Aragon Govern](https://aragon.org/aragon-govern) - Optimistic governance framework
+- [Astro](https://astrodao.com/) - Flexible governance framework on Near Protocol
+- [Colony](https://colony.io/) - Optimistic reputation-based governance
+- [Governor (Compound)](https://github.com/compound-finance/compound-protocol/tree/master/contracts/Governance) - Token voting smart contracts with delegation
+- [Governor (OpenZeppelin)](https://docs.openzeppelin.com/contracts/4.x/api/governance) - Token voting smart contracts, based on Compound Governor.
+- [DAOHaus (Moloch)](https://daohaus.club/) - Flexible and extensible governance framework
+- [DAOstack](https://daostack.io/) - Reputational governance framework using holographic consensus
+- [Gardens](https://gardens.1hive.org/) - Conviction voting framework based on the Aragon architecture
 - [Myco](https://www.myco.space/)
-- [Orca Protocol](https://orcaprotocol.org)
-- [SafeSnap Architecture](https://docs.snapshot.org/plugins/safesnap)
+- [Orca Protocol](https://orcaprotocol.org) - DAO framework built around sub-DAOs ("Pods").
+- [SafeSnap Architecture](https://docs.snapshot.org/plugins/safesnap) - Trustless on-chain execution of off-chain votes with Gnosis Safe + Snapshot
 - [SuperDAO](https://superdao.co/)
-- [Syndicate](https://syndicate.io/)
-- [Tribute](https://tributedao.com/)
-- [Upstream Collectives](https://upstreamapp.com/collectives)
-- [XDAO](https://www.xdao.app/)
-- [Zodiac](https://github.com/gnosis/zodiac)
+- [Syndicate](https://syndicate.io/) - Tooling for launching Investment DAOs
+- [Tribute](https://tributedao.com/) - Modular and extensible DAO framework
+- [Upstream Collectives](https://upstreamapp.com/collectives) - DAO platform with group chat, virtual events and dynamic delegation.
+- [XDAO](https://www.xdao.app/) - Hybrid on-chain / off-chain governance
+- [Zodiac](https://github.com/gnosis/zodiac) - DAO tools for Gnosis Safe
 
 ## Governance Frontends
 
@@ -65,14 +65,15 @@
 
 ## Dispute Resolution and Arbitration
 
-- [Aragon Court](https://aragon.org/aragon-court)
+- [Aragon Court](https://aragon.org/aragon-court) - Pluggable arbitration platform
+- [Celeste](https://1hive.gitbook.io/celeste/) - Subjective oracle to resolve disputes arising from optimistic actions
 - [Kleros](https://kleros.io/)
 
 ## Fundraising
 
 - [Fairmint](https://fairmint.co/)
 - [Juicebox](https://juicebox.money/)
-- [Mirror Protocol](https://mirror.xyz/)
+- [Mirror](https://mirror.xyz/)
 - [Syndicate](https://syndicate.io/)
 - [Yeeter](https://yeet.daohaus.club/)
 
@@ -139,7 +140,6 @@
 - [GitHub](http://github.com/)
 - [Medium](https://medium.com/)
 - [Mirror Protocol](https://mirror.xyz/)
-- [Rabbithole](http://rabbithole.gg/)
 - [Radicle](https://radicle.xyz/)
 
 ## Knowledge Management
@@ -155,6 +155,11 @@
 - [Obsidian](https://obsidian.md/)
 - [Roam](https://roamresearch.com/)
 - [SOBOl](https://sobol.io/)
+
+## Onboarding
+
+- [DoDAO](https://dodao.io/)
+- [Rabbithole](http://rabbithole.gg/)
 
 ## Discussion
 
