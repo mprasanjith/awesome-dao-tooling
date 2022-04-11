@@ -56,6 +56,7 @@
 
 - [Boardroom](https://www.boardroom.info/)
 - [Commonwealth](https://commonwealth.im/)
+- [Messari Governor](https://messari.io/governor)
 - [Tally](https://www.tally.xyz/)
 
 ## Voting Systems
@@ -159,6 +160,7 @@
 ## Onboarding
 
 - [DoDAO](https://dodao.io/)
+- [Otterspace](https://www.otterspace.xyz/)
 - [Rabbithole](http://rabbithole.gg/)
 
 ## Discussion
