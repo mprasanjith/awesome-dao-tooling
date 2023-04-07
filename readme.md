@@ -184,6 +184,7 @@
 - [EPNS](https://epns.io/)
 - [IPFS](https://ipfs.io/)
 - [OrbitDB](https://orbitdb.org/)
+- [Polybase](https://polybase.xyz)
 
 ## Contribute
 
